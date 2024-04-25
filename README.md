@@ -47,4 +47,4 @@ npm test
 ```
 
 [errExp]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error#examples
-[errCon]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/Error
+[errCon]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/Error# aa04-class-basic-syntax
